@@ -1,6 +1,7 @@
 {
   "short_name": "ToDo App",
   "name": "ToDo App created with React",
+  "developer": "Alperen Özkan",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",

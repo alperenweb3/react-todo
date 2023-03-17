@@ -1,0 +1,19 @@
+.todo {
+  width: 100rem;
+  height: 67rem;
+  background-color: #959CAF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.todo__wrapper {
+  background-color: white;
+  width: 50rem;
+  height: 37rem;
+  padding: 1rem;
+}
+
+.todos {
+  margin-top: 2rem;
+}
